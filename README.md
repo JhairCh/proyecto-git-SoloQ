@@ -14,7 +14,7 @@ La pagina permite conocer la cafeteria, visualizar su menu estatico y enviar un 
 - HTML
 - CSS
 - JavaScript
-- GitHub
+- Git y GitHub
 
 ## Funcionalidades
 
