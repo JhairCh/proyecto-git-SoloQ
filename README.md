@@ -5,16 +5,16 @@
 
 ## Descripcion
 
-Cafe Phaxsi es una pagina web para una cafeteria, desarrollada como practica de trabajo colaborativo con Git y GitHub.
+Cafe Phaxsi es una pagina web para una cafeteria, desarrollada como practica de trabajo colaborativo con GitHub de la Actividad 1.
 
-La pagina permite conocer la cafeteria, visualizar su menu y enviar un mensaje mediante un formulario de contacto.
+La pagina permite conocer la cafeteria, visualizar su menu estatico y enviar un mensaje mediante un formulario de contacto.
 
 ## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-- Git y GitHub
+- GitHub
 
 ## Funcionalidades
 
